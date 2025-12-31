@@ -73,4 +73,31 @@ Use at your own risk. The author is not responsible for any data loss,
 system issues, or unintended consequences resulting from the use of this software.
 
 ## AI Assistance
-This project was developed with assistance from AI tools such as Microsoft Copilot and Google Jules.
+This project was developed with assistance from AI tools such as Microsoft Copilot and Google Jules.|
+
+## Project Story: AI Teaching Human to Direct AI
+
+This project wasn’t built the traditional way. It wasn’t just “written” — it was orchestrated.  
+The Windows System Health & Cleanup Assistant is the result of a workflow where AI didn’t replace the human… it trained the human to direct the AI.
+
+Instead of typing code blindly, the human guided the AI through:
+
+- defining the problem  
+- shaping the architecture  
+- reviewing the plan  
+- approving modules  
+- refining logic  
+- testing behavior  
+- documenting the final product  
+
+Every component — from cleanup logic to reporting — was created through a deliberate back‑and‑forth where the human acted as the engineer, and the AI acted as the accelerator.
+
+This repo captures that process.  
+It’s not just a tool — it’s proof of a new skillset:  
+**AI orchestration.**  
+The ability to think, design, and direct intelligent systems to build real software.
+
+This project stands as a snapshot of that evolution:  
+a human learning to command AI, and AI empowering the human to build something bigger than either could alone.
+
+
