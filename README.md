@@ -1,4 +1,7 @@
-# Windows System Health & Cleanup Assistant
+# Windows System Integrity & Ops Suite
+
+<img width="772" height="404" alt="image" src="https://github.com/user-attachments/assets/d1f0b8b8-26b5-49e0-9498-402ab2a42443" />
+
 
 A Python-based CLI tool to maintain Windows system health by cleaning temporary files, organizing directories, and generating detailed system health reports. Built using a hybrid human–AI engineering workflow combining Microsoft Copilot, Google Jules, and traditional development tools.
 
@@ -154,7 +157,11 @@ The author is not responsible for any data loss, system issues, or unintended co
 
 ## 👤 Author
 
-**James**  
-Cybersecurity & IT Support Student  
-Windows Troubleshooting | Automation | AI‑Assisted Development  
+**James Mills**
+*Cisco & Google Certified Professional | U.S. Veteran*
+
+* **Focus:** Cybersecurity, Network Defense, and AI Orchestration
+* **Connect:** [LinkedIn](https://www.linkedin.com/in/millsjm-tech) | [Credly Badges](https://www.credly.com/users/millsjm-tech)
+
+> "Engineered with discipline. Automated with AI."  
 
