@@ -1,11 +1,17 @@
 # Windows System Integrity & Ops Suite
 
-<img width="772" height="404" alt="image" src="https://github.com/user-attachments/assets/d1f0b8b8-26b5-49e0-9498-402ab2a42443" />
-
+![Python Version](https://img.shields.io/badge/Python-3.12+-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 A Python-based CLI tool to maintain Windows system health by cleaning temporary files, organizing directories, and generating detailed system health reports. Built using a hybrid human–AI engineering workflow combining Microsoft Copilot, Google Jules, and traditional development tools.
 
----
+## 📸 Example Execution
+
+Below is a screenshot of the Windows System Integrity & Ops Suite running a system health report in PowerShell:
+
+<img width="748" height="398" alt="image" src="https://github.com/user-attachments/assets/07c69cef-cfd2-4aeb-aeae-f47c8a3f4bf0" />
 
 ## 🚀 Features
 
@@ -31,8 +37,6 @@ A Python-based CLI tool to maintain Windows system health by cleaning temporary 
 - No files are deleted or moved unless `--no-dry-run` is used  
 - All actions logged for transparency  
 
----
-
 ## 🧠 AI-Assisted Development
 
 This project was developed using a multi‑AI orchestration workflow:
@@ -56,8 +60,6 @@ It’s not just a tool — it’s proof of a new skillset:
 ### **AI Orchestration**  
 The ability to think, design, and direct intelligent systems to build real software.
 
----
-
 ## 📦 Installation
 
 ### Prerequisites
@@ -70,8 +72,6 @@ The ability to think, design, and direct intelligent systems to build real softw
 git clone https://github.com/YOUR-USERNAME/AI-teaching-human-to-direct-AI.git
 cd AI-teaching-human-to-direct-AI
 ```
-
----
 
 ## ▶️ Usage
 
@@ -110,8 +110,6 @@ python assistant.py --organize --no-dry-run
 python assistant.py --report
 ```
 
----
-
 ## 🧩 Module Structure
 
 - `src/cleaner.py` — Handles deletion logic  
@@ -120,15 +118,12 @@ python assistant.py --report
 - `src/utils.py` — Helper functions (logging, dry-run logic)  
 - `assistant.py` — Main CLI entry point  
 
----
-
 ## 📘 Project Story: *AI Teaching Human to Direct AI*
 
 This project wasn’t built the traditional way.  
 It wasn’t just “written” — it was **orchestrated**.
 
-The Windows System Health & Cleanup Assistant is the result of a workflow where AI didn’t replace the human…  
-**it trained the human to direct the AI.**
+The Windows System Integrity & Ops Suite is the result of a workflow where AI didn’t replace the human — it empowered the human to direct the AI.
 
 Every component — from cleanup logic to reporting — was created through a deliberate back‑and‑forth where:
 
@@ -139,21 +134,15 @@ This project stands as a snapshot of that evolution:
 
 > **A human learning to command AI, and AI empowering the human to build something bigger than either could alone.**
 
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.
-
----
 
 ## ⚠️ Disclaimer
 
 This tool is provided “as is” with no warranties or guarantees.  
 Use at your own risk.  
 The author is not responsible for any data loss, system issues, or unintended consequences resulting from the use of this software.
-
----
 
 ## 👤 Author
 
